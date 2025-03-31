@@ -40,7 +40,7 @@ Diseñar una vista previa funcional de las principales pantallas de la futura ap
    
    
    git clone
-    [https://github.com/tu-usuario/nombre-del-repo.git](https://github.com/elierdev/Tarea_10_Prototipo)
+    [https://github.com/elierdev/Tarea_10_Prototipo.git](https://github.com/elierdev/Tarea_10_Prototipo)
    
    cd Tarea_10_Prototipo
    
