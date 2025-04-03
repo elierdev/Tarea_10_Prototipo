@@ -48,7 +48,7 @@ input {
 
 button {
     padding: 0.7rem;
-    background-color: #0066cc;
+    
     color: white;
     border: none;
     border-radius: 5px;
@@ -56,28 +56,4 @@ button {
     transition: background 0.3s ease;
 }
 
-button:hover {
-    background-color: #0055aa;
-}
 
-p {
-    margin-top: 1rem;
-    font-size: 0.9rem;
-}
-
-a {
-    color: #0066cc;
-    text-decoration: none;
-}
-
-a:hover {
-    text-decoration: underline;
-}
-
-select {
-    padding: 0.6rem;
-    margin-bottom: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: white;
-}
